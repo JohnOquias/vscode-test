@@ -7,6 +7,7 @@ public class JavaApplication3 {
         Firstclass first = new Firstclass();
         first.shout();
         System.out.println("new!!!");
+        System.out.println("new again!");
     }
     
 }
