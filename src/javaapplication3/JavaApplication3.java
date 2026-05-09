@@ -6,6 +6,7 @@ public class JavaApplication3 {
         int[] myNumbers = {1,2,3,4,5};
         Firstclass first = new Firstclass();
         first.shout();
+        System.out.println("new!!!");
     }
     
 }
